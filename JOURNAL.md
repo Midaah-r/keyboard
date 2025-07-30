@@ -71,19 +71,19 @@ This is what i came up with, although i might need to tweak it a bit tomorrow:
 
 bottom case:
 
-<image src="assets_journal/bottom_case.jpg" width="400">
+<image src="/assets_journal/bottom_case.png" width="400">
 
 plate: 
 
-<image src="assets_journal/plate.jpg" width="400">
+<image src="assets_journal/plate.png" width="400">
 
 top case:
 
-<image src="assets_journal/top_case.jpg" width="400">
+<image src="assets_journal/top_case.png" width="400">
 
 final assembled look: 
 
-<image src="assets_journal/assembled.jpg" width="400">
+<image src="assets_journal/assembled.png" width="1000">
 
 Although im happy with how it turned out, i dont like the massive 40mm unused space on the top, i wanted to make a minimal keyboard and this goes completely against, the only solution i found feasible was to use solder pads and then use wires to link the pcb to the MCU, but this is my first time with something like this and i thought its better not to experiment too much, moreover, i have a deadline, ie, tomorrow!
 
@@ -92,3 +92,5 @@ Ill do the finishing touches and fix up any errors tomorrow and get my repo read
 BTW!!! My macropad got approved today!! YIPPEEE!
 
 **Time spent:** 8 hours
+
+---
