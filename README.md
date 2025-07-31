@@ -94,10 +94,11 @@ top:
 | Top Case - 1 (White "production/TOP.step")                          | 1   | Print Legion |
 | Middle plate - 1 (White "production/MIDDLE.step")                    | 1   | 1276 ($14.56)          | [from 3ding.in](assets/3ding_quote.png) |
 | Bottom Case - 1 (White "production/BOTTOM.step")                    | 1   | Print Legion            |
+| Shipping (for various parts)                                         | -  | 875.99 ($10)            | -  |
 
 ## Grand Total
 
-The total sum of the parts comes to approximately $135 (inr 11,830).
+The total sum of the parts comes to approximately $145 (inr 12,700).
 
 I have chosen air registered mail as its less likely to incr customs thus actually being cheaper than other shipping providers.
 
