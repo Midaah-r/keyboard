@@ -1,4 +1,4 @@
-# keyboard - v2
+# keyboard
 
 ![](assets/assemble_6.png)
 

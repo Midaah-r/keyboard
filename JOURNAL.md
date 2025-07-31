@@ -5,6 +5,8 @@ description: a keyboard that keyboard's
 created_at: 2025-7-28
 ---
 
+**total time spent: 18.5+ hours**
+
 # keyboard 
 
 ### 27th July (day 1): reasearch and brainstorming
