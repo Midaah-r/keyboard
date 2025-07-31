@@ -94,3 +94,18 @@ BTW!!! My macropad got approved today!! YIPPEEE!
 **Time spent:** 8 hours
 
 ---
+
+
+### 31st July (day 4): finishing touches
+
+I made a few tweaks here and there. adjuested somedimensions. changed some filleted edges to chamfered cos i read that it is better for 3d printing. 
+
+I spent quite some time rendering the various views.
+
+This project was amazing and it was the most complicated project i have ever taken. This was a new learning experience for me and i;m so happy! Im quite happy with how it turned out
+
+I'll now make the final repo and then submit!
+
+Thank you
+
+**Time Spent:**  2 hours
