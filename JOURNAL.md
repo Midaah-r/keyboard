@@ -112,22 +112,26 @@ Thank you
 
 **Time Spent:**  2 hours
 
+---
+
 ### 1st July (day 5): Top case redesign
 
 The case was a bit simple and i was told to make it a more complicated. so i decided to go with a wing embossing on the top part of the case
 
 I decided to make an angel wing like design in figma 
 
-<image src="wings_figma" width="400">
+<image src="wings_figma.png" width="400">
 
 after embossing it on , this is how it turned out:
 
-![](assets_journal/case_wings_1)
-![](assets_journal/case_wings_2)
+![](assets_journal/case_wings_1.png)
+![](assets_journal/case_wings_2.png)
  
 I think it looks pretty cool, idts its gonna look after the 3d print tho.
 
 **Time Spent**: 1 hour
+
+---
 
 ### 2nd July (day 6): Top Case redesign and general tweaks
 
@@ -137,22 +141,22 @@ I redesigned the case again and this time i decided to go with a cool hollow net
 
 This is how it turned out:
 
-<image src="assets_journal/case_net_raw" width="400">
+<image src="assets_journal/case_net_raw.png" width="400">
 
 these are the renders:
 
-![](assets_journal/case_net_1)
-![](assets_journal/case_net_2)
-![](assets_journal/case_net_3)
+![](assets_journal/case_net_1.png)
+![](assets_journal/case_net_2.png)
+![](assets_journal/case_net_3.png)
 
 I'm pretty happy with this, i think it looks cool and idts there'll be any issues 3d printing this.
 
 also i forgot to add one hole for the heatset insert 
 
-<image src="assets_journal/mistake_1" width="400">
+<image src="assets_journal/mistake_1.png" width="400">
 
 and i made a bit of square space for the RE as i was concerned itll not fit
 
-<image src="assets_journal/RE_square" width="400">
+<image src="assets_journal/RE_square.png" width="400">
 
 I hope its done now, i think this is perfect now!
