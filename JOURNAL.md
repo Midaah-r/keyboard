@@ -5,7 +5,7 @@ description: a keyboard that keyboard's
 created_at: 2025-7-28
 ---
 
-**total time spent: 18.5+ hours**
+**total time spent: 22.5+ hours**
 
 # keyboard 
 
@@ -120,7 +120,7 @@ The case was a bit simple and i was told to make it a more complicated. so i dec
 
 I decided to make an angel wing like design in figma 
 
-<image src="wings_figma.png" width="400">
+<image src="assets_journal/wings_figma.png" width="400">
 
 after embossing it on , this is how it turned out:
 
@@ -137,7 +137,7 @@ I think it looks pretty cool, idts its gonna look after the 3d print tho.
 
 _bruh_
 
-I redesigned the case again and this time i decided to go with a cool hollow net like design.
+I redesigned the case again and this time and after a _LOT_ of trail and error with different ideas i decided to go with a cool hollow net like design. It took me an embarrasingly long time to implement it courtesy of my poor fusion skills :D 
 
 This is how it turned out:
 
@@ -160,3 +160,6 @@ and i made a bit of square space for the RE as i was concerned itll not fit
 <image src="assets_journal/RE_square.png" width="400">
 
 I hope its done now, i think this is perfect now!
+
+***Time spent***: 3 hours
+
