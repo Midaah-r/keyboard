@@ -163,3 +163,18 @@ I hope its done now, i think this is perfect now!
 
 ***Time spent***: 3 hours
 
+### 12th July: Added _COOL_ Silkscreen and placed orders
+
+wooh 
+
+My grant arrived a few days ago and since ive placed orders for mostly everything. 
+
+only the case remains of which each part needs to be split into two to make it 3d printable in a typical 256mm<sup>3</sup> 3d printer.
+
+Anyways! here is how the pcb looks: 
+
+front:
+![](./assets_journal/updated_ss_front.png)
+
+back:
+![](./assets_journal/updated_ss_back.png)
