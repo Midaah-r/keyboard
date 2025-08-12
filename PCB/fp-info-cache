@@ -1,4 +1,25 @@
-26396208081152025
+26403226730309235
+1_Keeb_Silkscreen
+cats
+
+
+0
+0
+0
+1_Keeb_Silkscreen
+creeper
+
+
+0
+0
+0
+1_Keeb_Silkscreen
+nyancat
+
+
+0
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92378,6 +92399,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SL1.2A
+SO16
+<b>Small Outline package</b> 150 mil
+
+0
+16
+16
 ScottoKeebs_Alps
 Alps
 Alps/keyswitch
