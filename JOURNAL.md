@@ -178,3 +178,7 @@ front:
 
 back:
 ![](./assets_journal/updated_ss_back.png)
+
+3d: 
+![](./assets_journal/pcb_3d_front.png)
+![](./assets_journal/pcb_3d_back.png)
